@@ -1,0 +1,26 @@
+.ImageDetails {
+    width: 50vw;
+    height: 100vh;
+    position: fixed;
+    top: 100px;
+    left: 20%;
+    
+}
+
+.ImageDetails .image {
+    max-width: 70vh;
+   
+}
+
+
+.content {
+    background-color: black;
+    display: inline;
+
+
+    
+}
+
+.modal {
+    display: inline;
+}

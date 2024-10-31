@@ -1,0 +1,17 @@
+.ImageCard {
+    width: 30%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.ImageCard .image{ 
+    max-width: 200px;
+    max-height: 85%;
+    padding-left: 7.5%;
+}
+
+
+
+

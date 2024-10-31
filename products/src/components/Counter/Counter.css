@@ -1,0 +1,21 @@
+.Counter {
+    padding: 20px;
+    background-color: rgb(198, 197, 197);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    border-radius: 5px;
+}
+
+.Counter .counter-buttons {
+    width: 100%;
+    display: flex;
+    gap: 15px;
+}
+
+.Counter .counter-buttons button{
+    padding: 5px 9px;
+}
